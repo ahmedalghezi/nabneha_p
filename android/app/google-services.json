@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "830776009978",
+    "firebase_url": "https://dinary-ac874.firebaseio.com",
+    "project_id": "dinary-ac874",
+    "storage_bucket": "dinary-ac874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830776009978:android:42c477e158e79b0fcb9543",
+        "android_client_info": {
+          "package_name": "com.info4iq_nabneha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830776009978-gam4j7sjlui061rcdb8jcc337ns8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aHslijDt5mztXNq3wz6J7sbYuwp0D1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830776009978-gam4j7sjlui061rcdb8jcc337ns8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830776009978:android:ef17d042f2797879",
+        "android_client_info": {
+          "package_name": "com.iq.info4.trendsiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830776009978-69vijgpuet7jmiausm9uru3n4g6upehg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iq.info4.trendsiq",
+            "certificate_hash": "ce0f8073fc1aa99bdec70041e5ad6c669a6d593c"
+          }
+        },
+        {
+          "client_id": "830776009978-gam4j7sjlui061rcdb8jcc337ns8aa90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aHslijDt5mztXNq3wz6J7sbYuwp0D1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830776009978-gam4j7sjlui061rcdb8jcc337ns8aa90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
